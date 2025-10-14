@@ -1,5 +1,5 @@
 AreaCuadrado<-function(L){
-  return(4*L)
+  return(L*4)
 }
 
 circunf<-function(r){
