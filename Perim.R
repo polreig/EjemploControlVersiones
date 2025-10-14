@@ -3,5 +3,9 @@ AreaCuadrado<-function(L){
 }
 
 circunf<-function(r){
-  return(pi*r*2)
+  return(3.14159*r*2)
+}
+
+perim<-function(a,b){
+  return(a*b)
 }
