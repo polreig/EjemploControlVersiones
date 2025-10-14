@@ -33,4 +33,17 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 r<-0.5
 area<-pi*r^2
 ```
+
 #editado desde github
+
+```{r}
+a<-0.5
+areacuadrado<-a*a
+```
+
+
+```{r}
+c<-0.5
+areatriangulo<-(c**2)/2
+```
+
