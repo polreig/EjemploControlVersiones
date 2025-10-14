@@ -8,4 +8,6 @@ circunf<-function(r){
 
 areatrap<-function(b,B,h){
   return((b+B)*h/2)
+
+  return(3.14159*r*2)
 }
